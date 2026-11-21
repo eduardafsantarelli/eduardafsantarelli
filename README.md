@@ -15,7 +15,7 @@ Técnica em **Desenvolvimento de Sistemas** pelo **SENAI**. Desenvolvo interface
 | Projeto | O que é | Stack |
 |---|---|---|
 | [Organiza♡](https://github.com/eduardafsantarelli/organizacao-e-produtividade) | Caderno, tarefas e post-its no navegador | HTML, CSS, JavaScript |
-| [App de autenticação](https://github.com/eduardafsantarelli/Projeto-1-2026) | Cadastro, login e logout em app mobile | React Native, Expo, Firebase |
+| [App de autenticação](https://github.com/eduardafsantarelli/app-autenticacao-react-native) | Cadastro, login e logout em app mobile | React Native, Expo, Firebase |
 | [Atividades de front-end](https://github.com/eduardafsantarelli/html) · [ver online](https://eduardafsantarelli.github.io/html/) | Exercícios e mini-projetos de aula | HTML, CSS, JavaScript |
 | [Java: lógica e POO](https://github.com/eduardafsantarelli/Java) | Listas de exercícios e orientação a objetos | Java |
 | [Site da Duda: jogos](https://github.com/eduardafsantarelli/site-da-duda-santarelli) | Jogo do Laço e Jogo da Memória | HTML, CSS, JavaScript |
