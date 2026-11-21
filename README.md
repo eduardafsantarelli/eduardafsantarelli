@@ -1,6 +1,6 @@
 # Olá, eu sou a Eduarda 👋
 
-Técnica em **Desenvolvimento de Sistemas** pelo **SENAI**. Desenvolvo interfaces web e aplicações que resolvem problemas do dia a dia, de apps de autenticação a ferramentas de organização pessoal.
+Técnica em **Desenvolvimento de Sistemas** pelo **SENAI**. Desenvolvo interfaces web e aplicações que resolvem problemas do dia a dia, de um app de treino e nutrição a ferramentas de organização pessoal.
 
 ### 🛠️ Tecnologias
 
@@ -14,6 +14,7 @@ Técnica em **Desenvolvimento de Sistemas** pelo **SENAI**. Desenvolvo interface
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [FORJA — Treino & Nutrição](https://github.com/eduardafsantarelli/forja) | App web de treino, alimentação e evolução com login | HTML, CSS, JavaScript, Firebase |
 | [Organiza♡](https://github.com/eduardafsantarelli/organizacao-e-produtividade) | Caderno, tarefas e post-its no navegador | HTML, CSS, JavaScript |
 | [App de autenticação](https://github.com/eduardafsantarelli/app-autenticacao-react-native) | Cadastro, login e logout em app mobile | React Native, Expo, Firebase |
 | [Atividades de front-end](https://github.com/eduardafsantarelli/html) · [ver online](https://eduardafsantarelli.github.io/html/) | Exercícios e mini-projetos de aula | HTML, CSS, JavaScript |
